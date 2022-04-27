@@ -1,0 +1,62 @@
+.facebook{
+    color:#3b5998;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+ 
+}
+
+.bi {
+    font-size: 5rem;
+  }
+
+  .git{
+    color:#000000;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+ 
+  }
+
+  .what{
+    color:#025109;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+ 
+  }
+
+  
+  
+    .insta {
+    color:#e4405f;
+    
+        border-radius: 50px;
+        padding: 10px;
+        margin: 10px;
+    }
+
+    .twitter {
+    color:#1da1f2;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+    }
+
+    .stick{
+        color:#e2d416;
+    }
+
+    .task{
+        color:#170696;
+    }
+
+    .cat{
+        color:#b71d1d;
+    }
+  
+    .xd > ul{
+
+        list-style: none;
+
+    }
